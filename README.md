@@ -4,7 +4,7 @@ This program was started over a year ago. The reason for it was I wanted somethi
 As I am just only one person the updates will be slow and small.
 
 ## Features
-- IP to address (1st image down below)
+- IP to address (2nd image down below)
 - Public and Local IP (shows your public and local IP)
 - Changelog (self-explanatory)
 
