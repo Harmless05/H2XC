@@ -24,6 +24,7 @@ Yes this program is free and you can download it here: [Download](https://mega.n
 - Changelogs scrollbar is a bit wonky
 - Maximized window doesn't work as intended
 - If you open the submenu 2 times or more it doesn't close the last one (Keeps using more and more memory)
+- Some text are out of boundaries
 - Not optimized that well
 
 ## Bigger things to be added soonᵀᴹ
