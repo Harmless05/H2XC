@@ -9,7 +9,7 @@ As I am just only one person the updates will be slow and small.
 - Changelog (self-explanatory)
 
 ## Download
-Yes this program is free and you can download it here: [Download](https://mega.nz/folder/GYARwIZB#1UJX0-b99qlgwloDMASQSA)
+Yes this program is free and you can download it here: [Download](https://github.com/Harmless05/H2XC/raw/main/H2XC.msi)
 
 ## Latest changes
  - Added a pop-up when opening the Public and Local IP submenu
