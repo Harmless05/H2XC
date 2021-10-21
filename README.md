@@ -11,7 +11,7 @@ As I am just only one person the updates will be slow and small.
 ## Download
 Yes this program is free and you can download it here: [Download](https://github.com/Harmless05/H2XC/raw/main/H2XC.msi)
 
-## Latest changes
+## Latest changes 2.0.0
  - Added a pop-up when opening the Public and Local IP submenu
  - Fixed fonts being weird when downloading the program (H2XC)
  - Fixed the changelog for the second time. Some text was out of bounds.
