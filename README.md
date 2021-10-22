@@ -26,6 +26,7 @@ Yes this program is free and you can download it here: [Download](https://github
 - If you open the submenu 2 times or more it doesn't close the last one (Keeps using more and more memory)
 - Some text are out of boundaries
 - Not optimized that well
+- When searching for an address from an IP then can't use enter twice (crash)
 
 ## Bigger things to be added soonᵀᴹ
 - Overseer (IP/name type history for the IP you have looked up)
