@@ -1,4 +1,4 @@
-# H2XC
+# About
 This program was started over a year ago. The reason for it was I wanted something that would show the location of an IP address.
 
 As I am just only one person the updates will be slow and small.
