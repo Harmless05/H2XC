@@ -1,5 +1,5 @@
 # About
-This program was started over a year ago. The reason for it was I wanted something that would show the location of an IP address.
+This program allows you to lookup the location of an IP address. It also displays your public and local IP addresses. This project was started over a year ago, but has not been actively updated for some time. Despite this, it remains a useful tool for those looking to find the location of an IP address.
 
 As I am just only one person the updates will be slow and small.
 
