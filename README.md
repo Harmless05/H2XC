@@ -24,6 +24,8 @@ Yes this program is free and you can download it here: [Download](https://github
 
 ## Bigger things to be added soonᵀᴹ
 - Overseer (IP/name type history for the IP you have looked up)
+- Port scanner
+- Local network device scanner
 - Auto-updating
 - Optimized better
 
