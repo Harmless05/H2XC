@@ -4,6 +4,9 @@ Discover the power of this comprehensive network tool suite, designed to help yo
 Although updates may be infrequent due to being developed by one person, this tool remains a reliable and effective solution for network management. 
 Take a look and experience the benefits of this program for yourself.
 
+##Notice
+All version of H2XC have been removed due to security reasons. A new version will come in the coming months.
+
 ## Features
 - IP to address (2nd image down below)
 - Public and Local IP (shows your public and local IP)
