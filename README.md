@@ -1,11 +1,11 @@
+## **Notice**
+**All version of H2XC have been removed due to security reasons. A new version will come in the coming months.**
+
 # About
 Discover the power of this comprehensive network tool suite, designed to help you gain insight into your network like never before. This program offers a range of features to help you manage your network with ease, including the ability to lookup the location of any IP address, display your public and local IP addresses, conduct a thorough port scan to identify potential vulnerabilities, and even discover what devices are connected to your network. 
 
 Although updates may be infrequent due to being developed by one person, this tool remains a reliable and effective solution for network management. 
 Take a look and experience the benefits of this program for yourself.
-
-## Notice
-All version of H2XC have been removed due to security reasons. A new version will come in the coming months.
 
 ## Features
 - IP to address (2nd image down below)
@@ -17,7 +17,7 @@ All version of H2XC have been removed due to security reasons. A new version wil
 Yes this program is free and you can download it here: [Download](https://github.com/Harmless05/H2XC/releases/download/Release/H2XC.msi)
 
 ## Lightweight version
-For those seeking a more lightweight version of this program, a lite version is available that offers the same essential features without the fancy look. Whether you choose the full version or the lite version, you'll be able to experience the benefits of this program for yourself.
+For those seeking a more lightweight version of this program, a lite version is available that offers the same essential features without the fancy look. Both the full and lite versions of the program are user-friendly, making it easy for regular users to navigate and take advantage of its powerful features. Whether you choose the full version or the lite version, you'll be able to experience the benefits of this program for yourself.
 [H2XC LITE](https://github.com/Harmless05)
 
 ## Latest changes 2.0.1
