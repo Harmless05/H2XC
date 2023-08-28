@@ -1,0 +1,58 @@
+name: Bug report
+description: Report bugs for H2XC
+title: "[BUG] "
+labels: bug
+body:
+- type: textarea
+  attributes:
+    label: What part of H2XC does this bug affect?
+    description: Name place where it happened.
+    placeholder: |
+        Example: Settings, Dashboard, etc. (You could also say like "after injecting")
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Describe the bug
+    description: A clear description of what the bug is.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: How to replicate
+    description: Steps to reproduce the behavior.
+    placeholder: |
+      1. Go to '...'
+      2. Click on '...'
+      3. Scroll down to '...'
+      4. See error
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Expected Behavior
+    description: A clear description of what you expected to happen.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Possible evidence
+    description: |
+      Add any screenshots or videos to help explain your problem.
+
+      Tip: To add screenshots or videos, just click on this area to make it stand out and then drag the files in.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Additional context
+    description: Add any other context about the problem here.
+  validations:
+    required: false
+- type: checkboxes
+  attributes:
+    label: Build
+    description: Please verify that this issue is present in the most recent version of H2XC.
+    options:
+      - label: I've confirmed that the issue exists in the latest version of H2XC.
+        required: true

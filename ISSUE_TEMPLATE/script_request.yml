@@ -1,0 +1,36 @@
+name: Suggest a new feature
+description: Suggest a new feature for H2XC.
+title: "[Feature request] "
+labels: feature request
+body:
+- type: textarea
+  attributes:
+    label: Short name for the feature
+    description: Name of the feature you are suggesting.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Describe the feature
+    description: A clear description of what the feature should do.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Why do you think this feature would be useful?
+    description: A clear description of why you think this feature would be useful.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Additional context
+    description: Add any other context or notes about the feature here.
+  validations:
+    required: false
+- type: checkboxes
+  attributes:
+    label: Existing feature
+    description: Make sure that this feature DOES NOT already exist in H2XC.
+    options:
+      - label: I've confirmed that this feature DOES NOT already exist in H2XC
+        required: true

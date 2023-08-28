@@ -1,0 +1,43 @@
+name: Improvement for an existing feature
+description: Suggest a new feature for H2XC
+title: "[IMPROVEMENT] "
+labels: improvement
+body:
+- type: textarea
+  attributes:
+    label: What part of H2XC is this improvement for?
+    description: Name of the place where the improvement should be made.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Describe the improvement
+    description: A clear description of what the improvement is.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Why do you think this improvement would be useful?
+    description: A clear description of why you think this improvement would be useful.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Additional context
+    description: Add any other context or notes about the improvement request here.
+  validations:
+    required: false
+- type: checkboxes
+  attributes:
+    label: Feature
+    description: Make sure that this feature IS NOT already implemented in H2XC.
+    options:
+      - label: I've confirmed that this feature IS NOT already implemented in H2XC
+        required: true
+- type: checkboxes
+  attributes:
+    label: Version
+    description: Make sure you are using the latest version of H2XC.
+    options:
+      - label: I've confirmed that I am using the latest version of H2XC
+        required: true
