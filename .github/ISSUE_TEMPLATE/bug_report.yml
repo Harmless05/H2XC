@@ -1,6 +1,6 @@
 name: Bug report
 description: Report bugs for H2XC
-title: "[BUG] "
+title: "[Bug] "
 labels: bug
 body:
 - type: textarea

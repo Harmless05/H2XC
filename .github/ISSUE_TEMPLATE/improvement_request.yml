@@ -1,6 +1,6 @@
 name: Improvement for an existing feature
 description: Suggest an improvement for an existing feature in H2XC.
-title: "[IMPROVEMENT] "
+title: "[Improvement] "
 labels: improvement
 body:
 - type: textarea
