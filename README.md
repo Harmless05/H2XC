@@ -1,45 +1,45 @@
-## **Notice**
-**All version of H2XC have been removed due to security reasons. A new version will come in the coming months.**
+# H2XC
 
-# About
-Discover the power of this comprehensive network tool suite, designed to help you gain insight into your network like never before. This program offers a range of features to help you manage your network with ease, including the ability to lookup the location of any IP address, display your public and local IP addresses, conduct a thorough port scan to identify potential vulnerabilities, and even discover what devices are connected to your network. 
+H2XC is a network tool suite, designed to help you gain insight into your network. This program offers a range of features, including the ability to look up the location of any IP address, display your public and local IP addresses, conduct a thorough port scan to identify potential vulnerabilities, and even discover what devices are connected to your network.
 
-Although updates may be infrequent due to being developed by one person, this tool remains a reliable and effective solution for network management. 
-Take a look and experience the benefits of this program for yourself.
+## Notice
+
+**All versions of H2XC have been removed due to security reasons. A new version will come in the coming months.**
 
 ## Features
-- IP to address (2nd image down below)
-- Public and Local IP (shows your public and local IP)
-- Port scanner
-- Network scanner
+
+- **IP to address**: You can enter any IP address and get information about its location, such as country, region, city, latitude, longitude, and time zone.
+- **Public and Local IP**: You can see your public and local IP addresses with a single click.
 
 ## Download
-Yes this program is free and you can download it here: [Download](https://github.com/Harmless05/H2XC/releases/download/Release/H2XC.msi)
+
+Yes this program is free and you can download it here: [Download]()
 
 ## Lightweight version
+
 For those seeking a more lightweight version of this program, a lite version is available that offers the same essential features without the fancy look. Both the full and lite versions of the program are user-friendly, making it easy for regular users to navigate and take advantage of its powerful features. Whether you choose the full version or the lite version, you'll be able to experience the benefits of this program for yourself.
-[H2XC LITE](https://github.com/Harmless05)
+[H2XC LITE](https://github.com/Harmless05/H2XC-lite)
 
-## Latest changes 2.0.1
-- Added tooltip to IP to Address and to Public and Local IP
-- Bugs fixed
-- Code clean-up
-- Fixed font
-- Misc updates
+## Roadmap
 
-## Current bugs
-- Maximized window doesn't work as intended
-- Not optimized that well
+Placeholder
 
-## Bigger things to be added soonᵀᴹ
-- Overseer (IP/name type history for the IP you have looked up)
-- Auto-updating
-- Optimized better
-
-### Images
+## Showcase
 
 ![Dashboard](https://cdn.discordapp.com/attachments/595392516195483720/900748613376966706/Home.png)
 
 ![IP](https://cdn.discordapp.com/attachments/595392516195483720/900748625590751272/IP-address.png)
 
-### If you have any questions, suggestions, or bugs, report them to me.
+## License
+
+H2XC is licensed under the [MPL-2.0 license](https://github.com/Harmless05/H2XC/blob/main/LICENSE), which means you can use, modify, and distribute it freely, as long as you comply with the terms of the license.
+
+## Contributing
+
+H2XC is an open-source project, and contributions are welcome. If you want to contribute, you can fork the repository, make your changes, and submit a pull request. Please feel free to also report issues or suggest features using the [issue tracker](https://github.com/Harmless05/H2XC/issues).
+
+## Contact
+
+If you have any questions or feedback about H2XC, you can contact me on Discord. My username is [harmless0](https://discordapp.com/users/290429266036916224). You can also join my Discord server [Harmless' Hub](discord.harmlessdev.xyz) for more updates and discussions about Cali and my other projects.
+
+**If I'm not crediting someone or something, but it should be here then let me know and I will add it to the list**
