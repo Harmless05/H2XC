@@ -40,6 +40,6 @@ H2XC is an open-source project, and contributions are welcome. If you want to co
 
 ## Contact
 
-If you have any questions or feedback about H2XC, you can contact me on Discord. My username is [harmless0](https://discordapp.com/users/290429266036916224). You can also join my Discord server [Harmless' Hub](discord.harmlessdev.xyz) for more updates and discussions about Cali and my other projects.
+If you have any questions or feedback about H2XC, you can contact me on Discord. My username is [harmless0](https://discordapp.com/users/290429266036916224). You can also join my Discord server [Harmless' Hub](https://discord.harmlessdev.xyz) for more updates and discussions about Cali and my other projects.
 
 **If I'm not crediting someone or something, but it should be here then let me know and I will add it to the list**
