@@ -1,45 +1,39 @@
-## **Notice**
-**All version of H2XC have been removed due to security reasons. A new version will come in the coming months.**
-
-# About
-Discover the power of this comprehensive network tool suite, designed to help you gain insight into your network like never before. This program offers a range of features to help you manage your network with ease, including the ability to lookup the location of any IP address, display your public and local IP addresses, conduct a thorough port scan to identify potential vulnerabilities, and even discover what devices are connected to your network. 
-
-Although updates may be infrequent due to being developed by one person, this tool remains a reliable and effective solution for network management. 
-Take a look and experience the benefits of this program for yourself.
+# About H2XC
+Experience the power of H2XC, a freely available network utility tool designed to provide insights into the local network. This suite of tools offers a range of features to help you gain insight into your network with ease, including the ability to look up the location of any IP address and display your public and local IP addresses. Although updates may be infrequent due to being developed by one person, H2XC remains a reliable and effective solution for network insight. Feel free to take a look and experience the benefits of this program for yourself.
 
 ## Features
-- IP to address (2nd image down below)
-- Public and Local IP (shows your public and local IP)
-- Port scanner
-- Network scanner
+
+- Get Public IP Info (Requests info about inputted IP)[^1]
+- Local Network Info (Displays your local IP and public IP)[^2]
+- *More features coming soon*
 
 ## Download
-Yes this program is free and you can download it here: [Download](https://github.com/Harmless05/H2XC/releases/download/Release/H2XC.msi)
 
-## Lightweight version
-For those seeking a more lightweight version of this program, a lite version is available that offers the same essential features without the fancy look. Both the full and lite versions of the program are user-friendly, making it easy for regular users to navigate and take advantage of its powerful features. Whether you choose the full version or the lite version, you'll be able to experience the benefits of this program for yourself.
+Yes, the program is entirely free. You can download the latest version of the program [here]()
+
+## Lightweight version SOON
+
+For those seeking a more lightweight version of this program, a lite version is available that offers the same essential features without the fancy look. Both the full and lite versions of the program are user-friendly, making it easy for regular users to navigate and take advantage of its powerful features.
 [H2XC LITE](https://github.com/Harmless05)
 
-## Latest changes 2.0.1
-- Added tooltip to IP to Address and to Public and Local IP
-- Bugs fixed
-- Code clean-up
-- Fixed font
-- Misc updates
+## Changelog
 
-## Current bugs
-- Maximized window doesn't work as intended
-- Not optimized that well
+You can view the latest changes [here](https://github.com/Harmless05/H2XC/blob/main/CHANGELOG.md)
 
-## Bigger things to be added soonᵀᴹ
-- Overseer (IP/name type history for the IP you have looked up)
-- Auto-updating
-- Optimized better
+## Future Plans
 
-### Images
+- [ ] Auto-updating
+- [ ] IP History
+- [ ] Port Scanner
+- [ ] More info about the local network
+- [ ] Network Scanner
 
-![Dashboard](https://cdn.discordapp.com/attachments/595392516195483720/900748613376966706/Home.png)
+Feel free to suggest more features/ideas in the [GitHub Issues](https://github.com/Harmless05/H2XC/issues/) section or in the [Discord Server](https://discord.com/invite/a2XevWa4zQ)
 
-![IP](https://cdn.discordapp.com/attachments/595392516195483720/900748625590751272/IP-address.png)
+### Showcases
 
-### If you have any questions, suggestions, or bugs, report them to me.
+![Get public IP info]()[^1]
+
+![Local Network Info]()[^2]
+
+### If you have any questions, suggestions, or bugs to report, feel free to add them to the [GitHub Issues](https://github.com/Harmless05/H2XC/issues/) or join the [Discord Server](https://discord.com/invite/a2XevWa4zQ)
