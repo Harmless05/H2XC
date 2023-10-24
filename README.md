@@ -4,8 +4,8 @@ Experience the power of H2XC, a freely available network utility tool designed t
 
 ## Features
 
-- Get Public IP Info (Requests info about inputted IP)[^1]
-- Local Network Info (Displays your local IP and public IP)[^2]
+- Get Public IP Info (Requests info about inputted IP)
+- Local Network Info (Displays your local IP and public IP)
 - *More features coming soon*
 
 ## Download
@@ -33,8 +33,8 @@ Feel free to suggest more features/ideas in the [GitHub Issues](https://github.c
 
 ### Showcases
 
-![Get public IP info]()[^1]
+![Get public IP info]()
 
-![Local Network Info]()[^2]
+![Local Network Info]()
 
 ### If you have any questions, suggestions, or bugs to report, feel free to add them to the [GitHub Issues](https://github.com/Harmless05/H2XC/issues/) or join the [Discord Server](https://discord.com/invite/a2XevWa4zQ)
