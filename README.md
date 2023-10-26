@@ -35,9 +35,9 @@ If you have any questions, suggestions, or bugs to report, feel free to add them
 
 ### Showcases
 
-![Get public IP info](https://imgur.com/a/WgLYkUX)
+![Get public IP info](https://i.imgur.com/FqnnqzM.png)
 
-![Local Network Info](https://imgur.com/a/OcHOwvN)
+![Local Network Info](https://i.imgur.com/LEBXEDC.png)
 
 ## Contributing
 
